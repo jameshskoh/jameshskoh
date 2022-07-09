@@ -48,6 +48,7 @@ Visit my LinkedIn here!
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshskoh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshskoh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
