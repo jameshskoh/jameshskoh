@@ -27,8 +27,9 @@ Visit my LinkedIn here!
 
 ## Currently Working On
 
-* UCSD Capstone: Analyzing (Social) Network Data
+* My GitHub Pages
 * JavaScript mini-games
+* UCSD Capstone: Analyzing (Social) Network Data
 
 
 
@@ -41,7 +42,7 @@ Visit my LinkedIn here!
 ## Interested In
 
 * Software architecture
-* Deep learning
+* Machine Learning and Deep learning
 
 
 
@@ -52,6 +53,6 @@ Visit my LinkedIn here!
 
 
 
-### See You Soon!
+### Have questions? Just ask me!
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
