@@ -23,7 +23,8 @@ Visit my LinkedIn here!
 
 [![jameshskoh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameshskoh)
 
-
+Visit my GitHub Pages here!
+[![jameshskoh](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jameshskoh.github.io)
 
 ## Currently Working On
 
