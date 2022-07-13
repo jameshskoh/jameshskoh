@@ -29,9 +29,14 @@ Visit my GitHub Pages here!
 
 ## Currently Working On
 
-* My GitHub Pages
 * JavaScript mini-games
 * UCSD Capstone: Analyzing (Social) Network Data
+
+
+
+## Recently Done
+
+* My GitHub Pages
 
 
 
@@ -45,6 +50,7 @@ Visit my GitHub Pages here!
 
 * Software architecture
 * Machine Learning and Deep learning
+* The stock market 😏
 
 
 
