@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 I am a software engineer with 1y+ professional experience. BSc Industrial Engineering from SJTU.
 
+
+
+### Have questions? Just send me a message!
+
 Visit my LinkedIn here!
 
 [![jameshskoh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameshskoh)
@@ -60,7 +64,5 @@ Visit my GitHub Pages here!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshskoh)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-### Have questions? Just ask me!
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
