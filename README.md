@@ -31,16 +31,17 @@ Visit my GitHub Pages here!
 
 [![jameshskoh](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jameshskoh.github.io)
 
-## Currently Working On
+## Working On
 
+* LeetCode LOL
+* My GitHub Pages
 * JavaScript mini-games
-* UCSD Capstone: Analyzing (Social) Network Data
 
 
 
 ## Recently Done
 
-* My GitHub Pages
+* UCSD Capstone: Analyzing (Social) Network Data
 
 
 
@@ -53,7 +54,7 @@ Visit my GitHub Pages here!
 ## Interested In
 
 * Software architecture
-* Machine Learning and Deep learning
+* Machine learning and deep learning
 * The stock market 😏
 
 
