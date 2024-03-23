@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a software engineer with 1y+ professional experience. BSc Industrial Engineering from SJTU.
+I am a software engineer with 3y professional experience. BSc Industrial Engineering from SJTU.
 
 
 
@@ -33,29 +33,26 @@ Visit my GitHub Pages here!
 
 ## Working On
 
-* LeetCode LOL
-* My GitHub Pages
-* JavaScript mini-games
+* Creating a simple full stack app using serverless technologies
 
 
 
 ## Recently Done
 
-* UCSD Capstone: Analyzing (Social) Network Data
+* Building CI/CD with GitHub Actions, and Google Cloud Build
 
 
 
 ## Learning
 
-* Parallel programming
+* Java SE 11
+* Functional programming
 
 
 
 ## Interested In
 
-* Software architecture
-* Machine learning and deep learning
-* The stock market 😏
+* System design
 
 
 
