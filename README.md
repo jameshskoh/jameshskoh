@@ -40,19 +40,21 @@ Visit my GitHub Pages here!
 ## Recently Done
 
 * Building CI/CD with GitHub Actions, and Google Cloud Build
+* Oracle Certified Professional: Java SE 11 Developer
 
 
 
 ## Learning
 
-* Java SE 11
-* Functional programming
+* Studying Spring framework documentation
+* Studying functional programming
 
 
 
 ## Interested In
 
 * System design
+* Concurrency
 
 
 
