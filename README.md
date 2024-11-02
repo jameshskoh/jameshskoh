@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-## About Me
+# About Me
 
-I am a software engineer with 3y professional experience. BSc Industrial Engineering from SJTU.
+Self-made software engineer. Experienced in backend development (mostly Spring), data pipelines (Google Cloud Dataflow), and frontend development (React).
+
+BSc Industrial Engineering from SJTU.
 
 
 
-### Have questions? Just send me a message!
+#### Profile
 
 Visit my LinkedIn here!
 
@@ -31,38 +33,40 @@ Visit my GitHub Pages here!
 
 [![jameshskoh](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jameshskoh.github.io)
 
+
+
+## Cool things I just discovered
+
+1. Spring has a guide for everything Spring! https://spring.io/guides
+2. Sum (union) types + pattern matching + exhaustive switch = awesome
+3. Many languages share many similar features (and I like them)
+
+
+
 ## Working On
 
-* Creating a simple full stack app using serverless technologies
+1. Creating a simple full stack app using serverless technologies
 
 
 
 ## Recently Done
 
-* Building CI/CD with GitHub Actions, and Google Cloud Build
-* Oracle Certified Professional: Java SE 11 Developer
-
-
-
-## Learning
-
-* Studying Spring framework documentation
-* Studying functional programming
+1. Building CI/CD with GitHub Actions, and Google Cloud Build
+2. Oracle Certified Professional: Java SE 11 Developer
 
 
 
 ## Interested In
 
-* System design
-* Concurrency
+1. Learning Go and Rust
+2. System design
+3. Functional programming
 
 
 
-## Stats
+#### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshskoh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshskoh)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
